@@ -33,6 +33,7 @@ Column      Field                    Units                 Data Type            
 7           Ice Thickness            Meters                Double precision floating point          Converted from two-way travel time using a constant permittivity of 3.17
 8           Bed Amplitude - I        Volts                 Double precision floating point          Real component of bed echo amplitude, usually in scientific notation (eg. 1e-08) due to small values  
 9           Bed Amplitude - Q        Volts                 Double precision floating point          Imaginary component of bed echo amplitude, usually in scientific notation (eg. 1e-08) due to small values  
+10          Bed Pick SNR             dB                    Double precision floating point          10*log10(P_bed/P_noise)
 
 The accompanying JPEG files are low-quality images of the SAR focused radargrams for each flight frame 
 (file naming convention matches the text file naming convention) to give a quick sense of the topography 
