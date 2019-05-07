@@ -5,6 +5,8 @@ Text File Naming Convention:
 	Geographic Area Codes:
 		NOG - Northwest Outlet Glaciers
 		CC - Camp Century
+		B26 - adjacent to the B26 firn core
+		SUMup - adjacent to one of the SUMup near-surface density logs
 
 	Collection Date (YYYYMMDD)
 		Date on which that flight line was recorded.
